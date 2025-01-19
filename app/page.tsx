@@ -1,4 +1,5 @@
 import VisionSection from '@/components/vision-section'
+import Tracking from '@/components/tracking'
 import Image from 'next/image'
 
 export default function Home() {
@@ -23,7 +24,9 @@ export default function Home() {
 
   return (
     <main>
+      <Tracking />
       <VisionSection />
+      
       
       <section className="py-16">
         <div className="container mx-auto px-4">

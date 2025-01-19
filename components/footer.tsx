@@ -57,7 +57,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="text-center mt-8 pt-8 border-t border-blue-800">
-          <p>2023 © Leopards Courier Services Pvt. Limited. All rights reserved.</p>
+          <p>2025 © CourierX Services Pvt. Limited. All rights reserved.</p>
         </div>
       </div>
     </footer>
